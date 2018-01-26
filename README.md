@@ -44,4 +44,6 @@ Here is the card that was made:
 
 Watched "10 Simple Ways to Improve your Networking Skills" at https://www.youtube.com/watch?v=E5xTbn6OnAA. Some good tips: come with a goal, initiate conversation (recommends opener 'hi, are you here for networking?'), be proactive about giving, connect people w/ each other.
 
-Watched Tedx Talk on '7 Ways to Make Conversations with Anyone' at https://www.youtube.com/watch?v=F4Zu5ZZAG7I. 
+Watched Tedx Talk on '7 Ways to Make Conversations with Anyone' at https://www.youtube.com/watch?v=F4Zu5ZZAG7I. Emphasizes skipping small talk, asking personal questions. This one wasn't too helpful.
+
+Watched Elevator Pitch tutorials at https://www.youtube.com/watch?v=tgCssZhVUUE and https://www.youtube.com/watch?v=Oy6S0iTZx54. The key step seems to be, adding an element about why the other person should care. Three steps could include: 1) Who am I, what do I do. 2) Why should you care. 3) and what it is I want.
