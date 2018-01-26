@@ -5,7 +5,9 @@ Next biggest life challenge for me is transitioning from code school into gettin
 I hope to secure a developer job within a year of graduating Epicodus. The timeline is less important to me than the steady trajectory in the direction of becoming a developer and being a part of the Portland tech community.  Upon graduating Epicodus I hope to devote my time and resources to: taking more classes, volunteering, practicing developing my own apps & websites, and building my network.
 
 I am grateful for this project prompt, because it is something I've been thinking about myself, and something I've been chipping away at in my spare time, but its hard to get a solid 8 hour block to productively focus on these things.
+
 #Areas needing improvement
+
 ##Non-technical Areas
   * Networking: In the past the idea of networking always seemed like a chore to me. This is mostly because I didn't have an interest in a field that made networking crucial. Now I have an interest in a field, and I have a basis of knowledge in that field, the idea of networking has actually become attractive to me. Beyond using networking as a job search tool, I am genuinely interested in connecting with interesting people working interesting projects. I am interested in contributing to the community.
   - I would like to create a business card w/ links to my Github & linkedIn profiles for distribution at meet-ups or wherever.
@@ -22,7 +24,7 @@ I am grateful for this project prompt, because it is something I've been thinkin
   - Data Science. There's a lot of info in this field, and at this point I think just an intro to the field would be beneficial.
   * READMEs: The more I visit other repositories, the more I realize how important a good README is. It is the front page of a repository, and it only takes a second or two to determine if spending time on this repository is worth the effort. I don't think my README game is terrible, but I'd like to get better at incorporating images and charts and other visually compelling information for potential visitors.
 
-###Business card
+###Business card & Networking
 I will devote the next 45 minutes to researching business card designs for web developers, creating a business card, maybe ordering a business card. This a part of the networking process, as I want to expand my network and have something to give people at meet-ups.
 
 * Watched "5 tips for creating the perfect business card" at https://www.youtube.com/watch?v=LiXsDUcDims. Decent tips on both design & etiquette.
@@ -36,3 +38,10 @@ I will devote the next 45 minutes to researching business card designs for web d
 Here is the card that was made:
 ![front](img/front.jpg?raw=true)
 ![back](img/back.jpg?raw=true)
+![receipt](img/Screen Shot 2018-01-26 at 12.32.45 PM.png?raw=true)
+
+* Networking: Watched "An Introvert's Guide to Networking" at https://www.youtube.com/watch?v=FAPySGLL3gg. It emphasizes necessity to using networking events as networking, as in building a vast network of nodes, help others connect, don't just let it be a one way, what can you do for me kind of relationship building.  
+
+Watched "10 Simple Ways to Improve your Networking Skills" at https://www.youtube.com/watch?v=E5xTbn6OnAA. Some good tips: come with a goal, initiate conversation (recommends opener 'hi, are you here for networking?'), be proactive about giving, connect people w/ each other.
+
+Watched Tedx Talk on '7 Ways to Make Conversations with Anyone' at https://www.youtube.com/watch?v=F4Zu5ZZAG7I. 
