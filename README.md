@@ -19,7 +19,7 @@ I am grateful for this project prompt, because it is something I've been thinkin
   * As a front-end web designer I think I have a decent eye for design. But I have no formal training in design, and when I venture into Reddit design message boards, for example, there seems to be a lot of loathing of those who think they're a designer without the training. While I don't expect I'm going to go through a whole professional training, I'd like to take in a few basic tutorials, so as not to identify myself as an amateur right off the bat.
 
 ##Technical
-  * Algorithms: I need to practice algorithms, specifically with Javascript. This is for coding interview preparation, but also for generally being a better coder and having a better mindfulness for how information is transported and manipulated via code. I want to be comfortable seeing a puzzle prompt that takes an algorithm and having some intuitive sense of how to achieve the result with minimal code. I want to be able to verbalize my thought process both prior to writing the code and after.
+  * Algorithms: I need to practice algorithms, specifically with Javascript. This is for coding interview preparation, but also for generally being a better coder and having a better mindfulness for how information is transported and manipulated via code. I want to be comfortable seeing a puzzle prompt that requires an algorithm and having some intuitive sense of how to achieve the result with minimal code. I want to be able to verbalize my thought process both prior to writing the code and after.
   - Math. I haven't taken math classes in a long time, and I could use a refresher, with the intention of focusing on logic that pertains to the tech industry, but I think starting at geometry and Algebra 1 & 2 would be a significant help.
   - Data Science. There's a lot of info in this field, and at this point I think just an intro to the field would be beneficial.
   * READMEs: The more I visit other repositories, the more I realize how important a good README is. It is the front page of a repository, and it only takes a second or two to determine if spending time on this repository is worth the effort. I don't think my README game is terrible, but I'd like to get better at incorporating images and charts and other visually compelling information for potential visitors.
@@ -47,3 +47,10 @@ Watched "10 Simple Ways to Improve your Networking Skills" at https://www.youtub
 Watched Tedx Talk on '7 Ways to Make Conversations with Anyone' at https://www.youtube.com/watch?v=F4Zu5ZZAG7I. Emphasizes skipping small talk, asking personal questions. This one wasn't too helpful.
 
 Watched Elevator Pitch tutorials at https://www.youtube.com/watch?v=tgCssZhVUUE and https://www.youtube.com/watch?v=Oy6S0iTZx54. The key step seems to be, adding an element about why the other person should care. Three steps could include: 1) Who am I, what do I do. 2) Why should you care. 3) and what it is I want.
+
+
+
+Having spent the first half of the day thinking about areas which need work, and digging into some of the non-tech items, primarily related to social networking (meet up technique, business card creation), I would like to take the remaining part of the day to focus on practicing algorithms. I signed up for HackerRank just now.
+
+So far, three algorithm challenges accomplished on HackerRank.
+![HackerRank](img/Screen Shot 2018-01-26 at 2.19.15 PM.png?raw=true)
