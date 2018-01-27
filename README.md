@@ -44,7 +44,9 @@ Here is the card that was made:
 ![back](img/back.jpg?raw=true)
 ![receipt](img/ScreenShot2018-01-26at12.32.45PM.jpg?raw=true)
 
-* Networking: Watched "An Introvert's Guide to Networking" at https://www.youtube.com/watch?v=FAPySGLL3gg. It emphasizes necessity to using networking events as networking, as in building a vast network of nodes, help others connect, don't just let it be a one way, what can you do for me kind of relationship building.  
+* Networking:
+
+Watched "An Introvert's Guide to Networking" at https://www.youtube.com/watch?v=FAPySGLL3gg. It emphasizes necessity to using networking events as networking, as in building a vast network of nodes, help others connect, don't just let it be a one way, what can you do for me kind of relationship building.  
 
 Watched "10 Simple Ways to Improve your Networking Skills" at https://www.youtube.com/watch?v=E5xTbn6OnAA. Some good tips: come with a goal, initiate conversation (recommends opener 'hi, are you here for networking?'), be proactive about giving, connect people w/ each other.
 
@@ -59,7 +61,11 @@ Having spent the first half of the day thinking about areas which need work, and
 So far, three algorithm challenges accomplished on HackerRank.
 ![HackerRank](img/ScreenShot2018-01-26at2.19.15PM.jpg?raw=true)
 
+
+
 As of this writing, three more algorithm challenges accomplished on HackerRank:
 ![HackerRank](img/hackerrank4.25pm.png?raw=true)
 
-UPDATE: I enjoy doing algorithm challenges. The HackerRank webpage is a bit strange in that it takes me out of my usual coding milieu, and the challenges are designed to be applicable across several coding languages, so it the prompts can be kind of dense to de-code. I consider this good practice for tech interviews, becoming adaptable to applying what I know in uncomfortable environments. I would have copied the code into this repository, but the process would be timely, and the testing aspect would not have copied well. The challenges were all marked as easy, but I still found them challenging.
+
+
+UPDATE: I enjoy doing algorithm challenges. The HackerRank webpage is a bit strange in that it takes me out of my usual coding milieu, and the challenges are designed to be applicable across several coding languages, so it the prompts can be kind of dense to de-code. I consider this good practice for tech interviews, becoming adaptable to applying what I know in uncomfortable environments. I would have copied the code into this repository, but the process would be timely, and the testing aspect would not have copied well. The challenges were all marked as easy, but I still found them challenging. I have completed 6 algorithm challenges, and I am about halfway through a 7th. I'd like to explore this website further, I'd also like to go back to the FreeCodeCamp curriculum, of which I'm about 50% of the way done, at my level I think even these generated certificates are useful to show potential employers and networks that I'm engaged with the learning process. Also, they're fun in their own way.
