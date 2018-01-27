@@ -38,7 +38,7 @@ I will devote the next 45 minutes to researching business card designs for web d
 Here is the card that was made:
 ![front](img/front.jpg?raw=true)
 ![back](img/back.jpg?raw=true)
-![receipt](img/Screen Shot 2018-01-26 at 12.32.45 PM.png?raw=true)
+![receipt](img/ScreenShot2018-01-26at12.32.45PM.jpg?raw=true)
 
 * Networking: Watched "An Introvert's Guide to Networking" at https://www.youtube.com/watch?v=FAPySGLL3gg. It emphasizes necessity to using networking events as networking, as in building a vast network of nodes, help others connect, don't just let it be a one way, what can you do for me kind of relationship building.  
 
@@ -50,7 +50,10 @@ Watched Elevator Pitch tutorials at https://www.youtube.com/watch?v=tgCssZhVUUE 
 
 
 
-Having spent the first half of the day thinking about areas which need work, and digging into some of the non-tech items, primarily related to social networking (meet up technique, business card creation), I would like to take the remaining part of the day to focus on practicing algorithms. I signed up for HackerRank just now.
+Having spent the first half of the day thinking about areas which need work, and digging into some of the non-tech items, primarily related to social networking (meet up technique, business card creation), I would like to take the remaining part of the day to focus on practicing algorithms. I signed up for HackerRank just now, and I would like to complete more items on my track in FreeCodeCamp.
 
 So far, three algorithm challenges accomplished on HackerRank.
-![HackerRank](img/Screen Shot 2018-01-26 at 2.19.15 PM.png?raw=true)
+![HackerRank](img/ScreenShot2018-01-26at2.19.15 PM.jpg?raw=true)
+
+As of this writing, three more algorithm challenges accomplished on HackerRank:
+![HackerRank](img/hackerrank4.25pm.png?raw=true)
