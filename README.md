@@ -1,4 +1,8 @@
-Brainstorming:
+# Self-Directed Study
+### This is a journal charting my course of action over a day of self-directed studying. 1/26/17
+### by **Kevin Boyle**
+
+### Brainstorming:
 
 Next biggest life challenge for me is transitioning from code school into getting a job in the tech industry, and to do well in this industry and progress and rise to satisfying roles over the course of 10 years.
 
@@ -6,25 +10,25 @@ I hope to secure a developer job within a year of graduating Epicodus. The timel
 
 I am grateful for this project prompt, because it is something I've been thinking about myself, and something I've been chipping away at in my spare time, but its hard to get a solid 8 hour block to productively focus on these things.
 
-#Areas needing improvement
+# Areas needing improvement
 
-##Non-technical Areas
+## Non-technical Areas
   * Networking: In the past the idea of networking always seemed like a chore to me. This is mostly because I didn't have an interest in a field that made networking crucial. Now I have an interest in a field, and I have a basis of knowledge in that field, the idea of networking has actually become attractive to me. Beyond using networking as a job search tool, I am genuinely interested in connecting with interesting people working interesting projects. I am interested in contributing to the community.
   - I would like to create a business card w/ links to my Github & linkedIn profiles for distribution at meet-ups or wherever.
   * Contributing to society: We live in weird times. I want to contribute to the betterment of our society. One of the reasons I entered this field was because I realized I didn't have much to contribute previously, personally, professionally, or financially. Now I have a skillset that is powerful and applicable.
   * Public speaking & elevator pitch: I value a low-profile and non-interference in people's headspace. But I need to break out of my comfort zone and engage with people on occasion, and if I am going to do so, I should have the tools needed to make my presence an engaging one.
   * Staying focused: Like all of my generation, I'm easily distracted by shiny objects, or the potential thereof. Those shiny objects are almost always calling me from just behind the task at hand.
 
-##Semi-technical
+## Semi-technical
   * As a front-end web designer I think I have a decent eye for design. But I have no formal training in design, and when I venture into Reddit design message boards, for example, there seems to be a lot of loathing of those who think they're a designer without the training. While I don't expect I'm going to go through a whole professional training, I'd like to take in a few basic tutorials, so as not to identify myself as an amateur right off the bat.
 
-##Technical
+## Technical
   * Algorithms: I need to practice algorithms, specifically with Javascript. This is for coding interview preparation, but also for generally being a better coder and having a better mindfulness for how information is transported and manipulated via code. I want to be comfortable seeing a puzzle prompt that requires an algorithm and having some intuitive sense of how to achieve the result with minimal code. I want to be able to verbalize my thought process both prior to writing the code and after.
   - Math. I haven't taken math classes in a long time, and I could use a refresher, with the intention of focusing on logic that pertains to the tech industry, but I think starting at geometry and Algebra 1 & 2 would be a significant help.
   - Data Science. There's a lot of info in this field, and at this point I think just an intro to the field would be beneficial.
   * READMEs: The more I visit other repositories, the more I realize how important a good README is. It is the front page of a repository, and it only takes a second or two to determine if spending time on this repository is worth the effort. I don't think my README game is terrible, but I'd like to get better at incorporating images and charts and other visually compelling information for potential visitors.
 
-###Business card & Networking
+### Business card & Networking
 I will devote the next 45 minutes to researching business card designs for web developers, creating a business card, maybe ordering a business card. This a part of the networking process, as I want to expand my network and have something to give people at meet-ups.
 
 * Watched "5 tips for creating the perfect business card" at https://www.youtube.com/watch?v=LiXsDUcDims. Decent tips on both design & etiquette.
@@ -48,12 +52,14 @@ Watched Tedx Talk on '7 Ways to Make Conversations with Anyone' at https://www.y
 
 Watched Elevator Pitch tutorials at https://www.youtube.com/watch?v=tgCssZhVUUE and https://www.youtube.com/watch?v=Oy6S0iTZx54. The key step seems to be, adding an element about why the other person should care. Three steps could include: 1) Who am I, what do I do. 2) Why should you care. 3) and what it is I want.
 
+* Algorithm practice
 
-
-Having spent the first half of the day thinking about areas which need work, and digging into some of the non-tech items, primarily related to social networking (meet up technique, business card creation), I would like to take the remaining part of the day to focus on practicing algorithms. I signed up for HackerRank just now, and I would like to complete more items on my track in FreeCodeCamp.
+Having spent the first half of the day thinking about areas which need work, and digging into some of the non-tech aspects I was hoping to develop, primarily related to social networking (meet up technique, business card creation), I would like to take the remaining part of the day to focus on practicing algorithms. I signed up for HackerRank just now, and I would like to complete more items on my track in FreeCodeCamp.
 
 So far, three algorithm challenges accomplished on HackerRank.
-![HackerRank](img/ScreenShot2018-01-26at2.19.15 PM.jpg?raw=true)
+![HackerRank](img/ScreenShot2018-01-26at2.19.15PM.jpg?raw=true)
 
 As of this writing, three more algorithm challenges accomplished on HackerRank:
 ![HackerRank](img/hackerrank4.25pm.png?raw=true)
+
+UPDATE: I enjoy doing algorithm challenges. The HackerRank webpage is a bit strange in that it takes me out of my usual coding milieu, and the challenges are designed to be applicable across several coding languages, so it the prompts can be kind of dense to de-code. I consider this good practice for tech interviews, becoming adaptable to applying what I know in uncomfortable environments. I would have copied the code into this repository, but the process would be timely, and the testing aspect would not have copied well. The challenges were all marked as easy, but I still found them challenging.
